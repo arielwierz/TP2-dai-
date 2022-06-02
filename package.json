@@ -1,0 +1,22 @@
+{
+  "name": "tp2-dai-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielwierz/TP2-dai-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielwierz/TP2-dai-/issues"
+  },
+  "homepage": "https://github.com/arielwierz/TP2-dai-#readme",
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  }
+}
